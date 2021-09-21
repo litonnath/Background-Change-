@@ -3,7 +3,7 @@ cvzone==1.5.2
 
 mediapipe==0.8.7.3
 
-opencv-python==4.5.3
+opencv-python==4.4.0.46
 Flask==1.1.1
 gunicorn==19.9.0
 itsdangerous==1.1.0
