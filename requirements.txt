@@ -1,6 +1,6 @@
 
 cvzone==1.5.2
-joblib==1.0.1
+
 mediapipe==0.8.7.3
 
 opencv-python==4.5.3.56
